@@ -8,14 +8,15 @@ The background music was taken from the [iiSU Complete Theme](https://www.youtub
 
 ## Previews
 - Widescreen
-![Widescreen](Screenshots/Screenshot 2025-10-31 164108.png)
+![Widescreen](/Screenshots/Screenshot 2025-10-31 164108.png)
 - Vertical
-![Phonelike](Screenshots/Screenshot 2025-10-31 163917.png)
+![Phonelike](/Screenshots/Screenshot 2025-10-31 163917.png)
 - Settings
-![Settings](Screenshots/Screenshot 2025-10-31 163933.png)
-![Settings](Screenshots/Screenshot 2025-10-31 164041.png)
+![Settings](/Screenshots/Screenshot 2025-10-31 163933.png)
+![Settings](/Screenshots/Screenshot 2025-10-31 164041.png)
 - SD App Select
-![Mobile App Select](Screenshots/Screenshot 2025-10-31 164135.png)
+![Mobile App Select](/Screenshots/Screenshot 2025-10-31 164135.png)
+
 
 ## Requirements
 - Revo Launcher 5.1 or higher. (Started on 5.1, but works and was completed on the latest version.) - https://github.com/KaruzoHikari/Revo-Launcher/releases
