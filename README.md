@@ -11,12 +11,10 @@ The background music was taken from the [iiSU Complete Theme](https://www.youtub
 |----|----|
 | ![aa](https://github.com/SIG7Pro/RiiSU-Theme-iiSU-for-Revo/blob/main/Screenshots/Screenshot%202025-10-31%20163917.png?raw=true) | ![bb](https://github.com/SIG7Pro/RiiSU-Theme-iiSU-for-Revo/blob/main/Screenshots/Screenshot%202025-10-31%20164108.png) |
 
-
 | Settings | Revo Settings |
 |------|----|
 | ![cc](https://github.com/SIG7Pro/RiiSU-Theme-iiSU-for-Revo/blob/main/Screenshots/Screenshot%202025-10-31%20163933.png?raw=true) | ![dd](https://github.com/SIG7Pro/RiiSU-Theme-iiSU-for-Revo/blob/main/Screenshots/Screenshot%202025-10-31%20164041.png?raw=true)
-Also includes some text enhancements here and in other places. |
-
+| Some enhanced icons. | Also includes some text enhancements here and in other places. |
 
 | App List |
 |----|
